@@ -1,1 +1,1 @@
-# ALEXNET-algorithm
+# Variety of CNN algorithm
